@@ -6,8 +6,12 @@
 
 Here are some ideas to get you started:
 
+- Hello, I am Maulana Yusuf Habibi
+- I'm currently 18
+- I was born on June 30th, 2003
+- I from Brebes Central Java Indonesia
+
 - 🔭 I’m currently not working
 - 🌱 I’m currently learning Informatics at University of Ahmad Dahlan
 - 👯 I’m looking to collaborate on everything
 - 🤔 I’m looking for help with anyone
--->

@@ -4,7 +4,6 @@
 
 ### ABOUT ME
 - Hello, I am Maulana Yusuf Habibi
-- I'm currently 18
 - I was born on June 30th, 2003
 - I from Brebes Central Java Indonesia
 
